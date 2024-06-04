@@ -1,0 +1,15 @@
+.jakarta-font{
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+
+.roboto{
+    font-family: "Roboto Slab", serif;
+    font-weight: 400;
+}
+
+.bck-image{
+    background-image: url('https://techsharks.in/wp-content/uploads/2023/06/plans-pricing-banner-copy-scaled.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
